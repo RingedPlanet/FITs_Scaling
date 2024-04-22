@@ -5,6 +5,7 @@ https://drive.google.com/file/d/1ldSkh9U7gyq3bMqqtjBIDzSt25XFqV07/view?usp=shari
 
 You are able to run code with any fits file and dynamically adjust scalings and vmin and vmax and have a dropdown menu for scaling types. The image will then quickly, dynamically render below. 
 
+# Please be patient with the initial loading time of the FITs file. After that, things should load at a much faster rate. It may take a little time to adjust color, scaling, and output the buttons. 
 # I suggest subsample of 10 to load FITS faster. 
 # You can view the statistics and recommended scalings of the image by clicking on the buttons under the image
 # You can change the title, color, and save the image as png to your Jupyter Notebook file. 
