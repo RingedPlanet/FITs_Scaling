@@ -3,7 +3,7 @@ Please open the main driver (titled as Julia Levy Final Astr 330 Project) in a J
 The sample FITS file is M51_HST (2).fits. Please put this in same jupyter folder as code. You can find it at this link: 
 https://drive.google.com/file/d/1ldSkh9U7gyq3bMqqtjBIDzSt25XFqV07/view?usp=sharing
 
-You are able to run code with any fits file and dynamically adjust scalings and vmin and vmax.
+You are able to run code with any fits file and dynamically adjust scalings and vmin and vmax and have a dropdown menu for scaling types. The image will then quickly, dynamically render below. 
 
 # I suggest subsample of 10 to load FITS faster. 
 # You can view the statistics and recommended scalings of the image by clicking on the buttons under the image
