@@ -1,6 +1,9 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Filter out runtime warnings
+warnings.filterwarnings("ignore", category=RuntimeWarning)
+
 class FitsPlotter:
     def __init__(self, data, wcs=None):
         self.data = data
