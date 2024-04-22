@@ -1,4 +1,4 @@
-Please open the main driver (titled as Julia Levy Final Astr 330 Project) in a Jupyter Notebook. You can download the individual python files to import them. 
+Please open the main driver (titled as Julia Levy Final Astr 330 Project) in a Jupyter Notebook so you can use the interactive features. You can download the individual python files to import them. 
 
 The sample FITS file is M51_HST (2).fits. Please put this in same jupyter folder as code. You can find it at this link: 
 https://drive.google.com/file/d/1ldSkh9U7gyq3bMqqtjBIDzSt25XFqV07/view?usp=sharing
